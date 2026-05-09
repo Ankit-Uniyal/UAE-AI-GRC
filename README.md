@@ -1,1 +1,3 @@
 # UAE-AI-GRC
+
+The UAE's AI obligations sit across eight overlapping regimes. Most GRC teams build their own spreadsheets to track them. This platform is the spreadsheet — open-sourced, kept current, and mapped clause-by-clause to a unified library of 30 controls. Profile your entity, take a 30-control gap assessment, and download a personalised GRC pack with five customisable governance templates pre-filled to your context. Free. No login. No tracking. Built and reviewed against primary regulatory sources by a UAE-based GRC practitioner with ten years across the Big Four, banking, healthcare, and fintech.
